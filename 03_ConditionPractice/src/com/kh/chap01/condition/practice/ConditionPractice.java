@@ -232,7 +232,6 @@ public class ConditionPractice {
 			return;
 		}
 		System.out.println(num1 + "" + computation + "" + num2 + '=' + result);
-//		System.out.println((int)num1 + (char)computation + (int)num2 + '=' + result);
 	}
 	
 	public void practice9() {

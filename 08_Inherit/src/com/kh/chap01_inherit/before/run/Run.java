@@ -3,7 +3,7 @@ package com.kh.chap01_inherit.before.run;
 import com.kh.chap01_inherit.before.model.vo.Desktop;
 import com.kh.chap01_inherit.before.model.vo.SmartPhone;
 import com.kh.chap01_inherit.before.model.vo.Tv;
-
+ 
 public class Run {
 
 	public static void main(String[] args) {

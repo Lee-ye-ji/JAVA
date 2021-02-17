@@ -5,7 +5,7 @@ public class Tv {
 	private String pCode;	// 상품코드
 	private String pName;	// 상품명
 	private int price;		// 가격
-	
+	 
 	private int inch;		// 인치
 	
 	public Tv() {}

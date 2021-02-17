@@ -8,7 +8,7 @@ public class Run {
 
 	public static void main(String[] args) {
 		Airplane airplane = new Airplane("비행기1", 0.021, "제트기", 16, 5);
-		
+		 
 		Car car = new Car("BMW", 12.5, "세단", 4);
 		
 		Ship ship = new Ship("낚시배", 3, "어선", 1);

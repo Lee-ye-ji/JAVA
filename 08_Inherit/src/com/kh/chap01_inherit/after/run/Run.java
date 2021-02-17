@@ -5,7 +5,7 @@ import com.kh.chap01_inherit.after.model.vo.SmartPhone;
 import com.kh.chap01_inherit.after.model.vo.Tv;
 
 public class Run {
-
+ 
 	public static void main(String[] args) {
 		// Desktop 按眉 积己
 		Desktop d = new Desktop("伙己", "d-01", "炉炉单胶农啪", 2000000, true);

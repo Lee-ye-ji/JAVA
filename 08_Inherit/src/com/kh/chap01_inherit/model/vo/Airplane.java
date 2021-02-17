@@ -11,7 +11,7 @@ public class Airplane extends Vehicle{
 		this.tire = tire;
 		this.wing = wing;
 	}
-
+ 
 	public int getTire() {
 		return tire;
 	}

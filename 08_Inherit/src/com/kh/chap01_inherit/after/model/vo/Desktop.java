@@ -5,7 +5,7 @@ public class Desktop extends Product{
 	// extends -> 확장하다
 	// 부모의 것을 물려 받고 자신의 것을 추가하여 클래스를 확장함
 	private boolean allInOne;
-	 
+	
 	public Desktop() {}
 
 	public Desktop(String brand, String pCode, String pName, int price, boolean allInOne) {

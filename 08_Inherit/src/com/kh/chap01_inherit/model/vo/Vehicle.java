@@ -7,7 +7,7 @@ public class Vehicle {
 	
 	public Vehicle() {
 		super();
-	} 
+	}
 
 	public Vehicle(String name, double mileage, String kind) {
 		super();

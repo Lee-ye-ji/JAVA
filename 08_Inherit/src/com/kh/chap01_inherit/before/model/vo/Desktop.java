@@ -4,7 +4,7 @@ public class Desktop {
 	private String brand;	// 브랜드
 	private String pCode;	// 상품코드
 	private String pName;	// 상품명
-	private int price; 		// 가격
+	private int price;		// 가격
 	
 	private boolean allInOne;	// 일체형 여부
 	

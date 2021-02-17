@@ -6,7 +6,7 @@ public class Tv extends Product {
 	
 	public Tv() {
 		// super(); -> 명시적으로 표기하지 않아도 동작
-	} 
+	}
 	
 	public Tv(String brand, String pCode, String pName, int price, int inch) {
 		super(brand, pCode, pName, price);

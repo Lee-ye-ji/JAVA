@@ -5,7 +5,7 @@ public class SmartPhone {
 	private String pCode;	// 상품코드
 	private String pName;	// 상품명
 	private int price;		// 가격
-	 
+	
 	private String mobileAgency;	// 통신사
 	
 	public SmartPhone() {}

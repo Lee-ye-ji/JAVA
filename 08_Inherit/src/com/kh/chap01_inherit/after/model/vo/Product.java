@@ -9,7 +9,7 @@ public class Product /*extends Object*/{
 	
 	public Product() {
 		super();
-	} 
+	}
 
 	public Product(String brand, String pCode, String pName, int price) {
 		super();

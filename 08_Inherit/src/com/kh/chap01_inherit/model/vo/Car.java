@@ -4,7 +4,7 @@ public class Car extends Vehicle{
 	private int tire;
 	
 	public Car() {}
-	 
+	
 	public Car(String name, double mileage, String kind, int tire) {
 		super(name, mileage, kind);
 		this.tire = tire;

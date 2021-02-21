@@ -7,7 +7,7 @@ import java.net.UnknownHostException;
 
 import com.kh.chap02_socket.part03_chat.thread.Receiver;
 import com.kh.chap02_socket.part03_chat.thread.Sender;
-
+ 
 public class ChatClientManager {
 	public void startClient() {
 		String name = "Client"; //클라이언트 명

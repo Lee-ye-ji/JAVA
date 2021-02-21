@@ -4,7 +4,7 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
-
+ 
 public class Sender implements Runnable{
 	// 1. 클래스에서 사용할 필드 선언
 	private String name;   // 데이터를 보내는 사용자명

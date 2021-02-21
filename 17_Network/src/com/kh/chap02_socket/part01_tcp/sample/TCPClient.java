@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.Socket;
 import java.net.UnknownHostException;
-
+ 
 public class TCPClient {
 	public void clientStart() {
 		// 0) 클라이언트가 서버에게 요청을 하기 위해서는 반드시 서버의 IP주소와 포트번호를 알아야함

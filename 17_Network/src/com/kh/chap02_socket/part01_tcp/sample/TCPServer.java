@@ -8,7 +8,7 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
-
+ 
 public class TCPServer {
 	public void serverStart() {
 		// 1) 포트 번호 지정

@@ -6,7 +6,7 @@ import java.net.Socket;
 
 import com.kh.chap02_socket.part03_chat.thread.Receiver;
 import com.kh.chap02_socket.part03_chat.thread.Sender;
-
+ 
 public class ChatServerManager {
 	public void startServer() {
 		String name = "Server"; // 서버 컴퓨터 이름 정해주기

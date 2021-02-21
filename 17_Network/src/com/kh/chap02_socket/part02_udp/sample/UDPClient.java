@@ -6,7 +6,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
-
+ 
 public class UDPClient {
 	/* 1. 서버가 보낸 메시지를 받을 byte[] 준비
 	   2. DatagramSocket 객체 생성	

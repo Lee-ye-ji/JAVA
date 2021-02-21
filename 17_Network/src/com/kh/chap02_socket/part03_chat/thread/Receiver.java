@@ -3,7 +3,7 @@ package com.kh.chap02_socket.part03_chat.thread;
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.net.Socket;
-
+ 
 public class Receiver implements Runnable{
 	// 1. 클래스에 사용할 필드 선언
 	private DataInputStream in;		// 전달 된 데이터를 입력 받을 스트림
